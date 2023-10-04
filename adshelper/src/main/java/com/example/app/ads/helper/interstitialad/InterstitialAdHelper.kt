@@ -341,7 +341,7 @@ object InterstitialAdHelper {
                     // show native ad
                     showFullScreenNativeAdDialog()
                 }
-                if (!isThisAdShowing && isOnline) {
+                if (!isThisAdShowing && isOnline && loadedAdModel != null) {
                     mListener?.onAdClosed(false)
                 }
             } else {

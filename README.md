@@ -3,7 +3,7 @@
 Android Ads code that is required in every app of Vasundhara Infotech [Vasundhara Infotech LLP](https://vasundharainfotechllp.com)
 
 [![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
-[![Version](https://jitpack.io/v/vickypathak123/Android-Ads-Helper.svg)](https://jitpack.io/#vickypathak123/Android-Ads-Helper)
+[![Version](https://jitpack.io/v/vickypathak123/Ads-With-RevenueCat.svg)](https://jitpack.io/#vickypathak123/Ads-With-RevenueCat)
 
 ## Using `build.gradle`
 
@@ -28,7 +28,7 @@ Android Ads code that is required in every app of Vasundhara Infotech [Vasundhar
 
 dependencies {
     implementation 'com.android.support:multidex:1.0.3'
-    implementation 'com.github.vickypathak123:Android-Ads-Helper:latest_build_version'
+    implementation 'com.github.vickypathak123:Ads-With-RevenueCat:latest_build_version'
 }
 ```
 
