@@ -5,14 +5,14 @@ plugins {
 }
 
 android {
-    compileSdk 33
+    compileSdk 34
     namespace "com.example.ads.helper.demo"
     defaultConfig {
         applicationId "com.example.ads.helper.demo"
 //        applicationId "com.clap.find.my.mobile.alarm.sound"
 //        applicationId "com.screen.mirror.cast.share.tv.device.app"
         minSdk 23
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "$dependencies_version"
         multiDexEnabled true
